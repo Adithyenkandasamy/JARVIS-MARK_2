@@ -47,3 +47,4 @@ def play_wav(file_path: str):
 
 run_piper("Jarvis is your personal AI assistant that greets you, plays music, manages tasks")
 play_wav("welcome.wav")
+os.remove("welcome.wav")

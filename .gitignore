@@ -1,5 +1,6 @@
 env
 __pycache__
 
-/home/minato/Desktop/JARVIS-MARK_2/en_US-lessac-medium.onnx
-/home/minato/Desktop/JARVIS-MARK_2/en_US-lessac-medium.onnx.json
+en_US-lessac-medium.onnx
+en_US-lessac-medium.onnx.json
+welcome.wav
